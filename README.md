@@ -16,8 +16,5 @@ if you want to watch this, click image;
 
 [![](http://img.youtube.com/vi/Wwua8ikpM1s/0.jpg)](http://www.youtube.com/watch?v=Wwua8ikpM1s "")
 
+<img src="./Resources/output_facenet.gif" />
 
-
-<video width="320" height="240" controls>
-  <source src="http://www.youtube.com/watch?v=Wwua8ikpM1s" type="video/mp4">
-</video>
