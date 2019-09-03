@@ -14,4 +14,4 @@
 <h2>Project Output :</h2>
 if you want to watch this, click image;
 
-[![](http://img.youtube.com/vi/Wwua8ikpM1s/50.jpg)](http://www.youtube.com/watch?v=Wwua8ikpM1s "")
+[![](http://img.youtube.com/vi/Wwua8ikpM1s/0.jpg)](http://www.youtube.com/watch?v=Wwua8ikpM1s "")
