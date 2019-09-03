@@ -1,7 +1,16 @@
 # Face Recognition with FaceNet and OpenCV
 
-<br>
-<br>
-<h2>Project Output :</h2> <br>
+<h2>Setup</h2>
 
-[![](http://img.youtube.com/vi/Wwua8ikpM1s/0.jpg)](http://www.youtube.com/watch?v=Wwua8ikpM1s "")
+* <b>Download pretrained model from this link :</b> https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
+
+* Put pretrained model into "Model" folder.
+
+* Run this commend: python main.py
+
+
+<br>
+<br>
+<h2>Project Output :</h2>
+
+[![](http://img.youtube.com/vi/Wwua8ikpM1s)](http://www.youtube.com/watch?v=Wwua8ikpM1s "")
