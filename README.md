@@ -12,6 +12,6 @@
 <br>
 <br>
 <h2>Project Output :</h2>
-if you want to watch real video on Youtube, <a href="http://www.youtube.com/watch?v=Wwua8ikpM1s">click</a>;
+if you want to watch the real video on Youtube, <a href="http://www.youtube.com/watch?v=Wwua8ikpM1s">click</a>;
 <img src="./Resources/output_facenet.gif" />
 
