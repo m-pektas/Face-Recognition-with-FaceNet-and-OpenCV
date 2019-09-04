@@ -7,7 +7,7 @@ from config import params
 class main:
     def __init__(self):
         self.model = load_model('./Model/facenet_keras.h5')
-        self.getDatabase()
+        self.init_Database()
         print("[Log] Main nesnesi oluşturuldu.",flush=True)
 
     def run(self, path):
@@ -46,7 +46,7 @@ class main:
     def euclid_distance(self, input_embed, db_embed):
         return np.linalg.norm(db_embed-input_embed)
 
-    def getDatabase(self):
+    def init_Database(self):
         self.p = Preprocess(database_path="./Database/",folders=params["Persons"])
         self.database = self.p.load_images()
 
