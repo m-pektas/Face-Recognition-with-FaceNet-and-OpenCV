@@ -74,7 +74,7 @@ class FaceRecognition:
 
 if __name__ == "__main__":    
     FR = FaceRecognition()
-    FR.recognize_faces_in_video("/home/mp/Desktop/github/Face-Recognition-with-FaceNet-and-OpenCV/test-videos/test.mp4")
+    FR.recognize_faces_in_video(config.video_path)
 
 
 
