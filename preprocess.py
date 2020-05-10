@@ -4,7 +4,6 @@ This class can;
     - detect face and crop with opencv
     - create embedding vector from face.
 """
-import glob
 import os
 import cv2
 import numpy as np
@@ -15,7 +14,7 @@ class Preprocess:
     def __init__(self, database_path):
         self.path = database_path
         self.model =  load_model('model/facenet_keras.h5')
-        self.face_cascade = cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
+        self.face_cascade = cv2.CascadeClassifier("model/haarcascade_frontalface_default.xml")
 
         print("[Log] Preprocess object was created.")
 
@@ -64,11 +63,6 @@ class Preprocess:
         else:
             return (None,None)
 
-    def show(self,img):
-        cv2.imshow('img',img)
-        cv2.waitKey(0)
-        cv2.destroyAllWindows()
-    
     def euclid_distance(self, input_embed, db_embed):
         """ calculate euclidan distance between two embeded vector """
         return np.linalg.norm(db_embed-input_embed)
