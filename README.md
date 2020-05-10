@@ -1,4 +1,3 @@
-<!DOCTYPE html> 
 # Face Recognition with FaceNet and OpenCV
 
 <h2>Setup</h2>
@@ -15,7 +14,3 @@
 <h2>Project Output :</h2>
 if you want to watch the real video on Youtube, <a href="http://www.youtube.com/watch?v=Wwua8ikpM1s">click</a>;
 <img src="./Resources/output_facenet.gif" />
-
-<body>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/Wwua8ikpM1s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</body>
