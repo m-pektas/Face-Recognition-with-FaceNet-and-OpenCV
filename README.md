@@ -1,20 +1,22 @@
 # Face Recognition with FaceNet and OpenCV
 
 
-**Turkish BlogPost :** https://medium.com/deep-learning-turkiye/facenet-ile-sherlock-ve-johnu-tan%C4%B1yal%C4%B1m-ef76c4b46e86
+**BlogPost (Turkish) :**  [click](https://medium.com/deep-learning-turkiye/facenet-ile-sherlock-ve-johnu-tan%C4%B1yal%C4%B1m-ef76c4b46e86)
+
+
 
 
 ### Setup
 
-* Download pretrained model from this link : https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn
+* Download pretrained model from this link : [click](https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn)
 
-* Put pretrained model into "Model" folder.
-
-* Run this commend: python main.py
+* Put pretrained model into "model" folder.
 
 
-<br>
-<br>
+### Usage
+
+```$ python main.py```
+
 
 ### Project Output :
 
