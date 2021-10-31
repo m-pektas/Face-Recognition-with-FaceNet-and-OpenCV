@@ -12,6 +12,13 @@
 
 * Put pretrained model into "model" folder.
 
+### Environment
+
+```
+conda create --name fr python=3.6.9 -y
+pip install -r requirenments.txt
+```
+
 
 ### Usage
 
