@@ -8,7 +8,7 @@
 
 ### Setup
 
-* Download pretrained model from this link : [click](https://drive.google.com/drive/folders/1pwQ3H4aJ8a6yyJHZkTwtjcL4wYWQb7bn)
+* Download pretrained model(facenet_keras.h5) from this link : [click](https://drive.google.com/drive/folders/1CJnLTh2dfjkdwOSsc6YfjsM7pBhwhYa9?usp=sharing)
 
 * Put pretrained model into "model" folder.
 
